@@ -1,6 +1,6 @@
 # drom-pdd
 
-Hello, wolrd!
+Hello, world!
 
 This script gets images from site https://drom.ru/pdd/bilet_NN and saves them into directories named ticket_NN (NN is a number of examination test, from 1 to 40).
 
